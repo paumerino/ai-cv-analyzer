@@ -34,8 +34,9 @@ Job Description ──► [2. Matcher] ◄────────────�
 
 ## Screenshots
 
-![Score Breakdown & Skills](docs/skills_breakdown.png)
-![Key Strengths & Improvements](docs/strengths_improvements.png)
+![Dashboard & KPIs](docs/image1.png)
+![Score Breakdown & Skills](docs/image2.png)
+![Key Strengths & Improvements](docs/image3.png)
 
 ## Evaluation Benchmark
 
