@@ -1,0 +1,22 @@
+Big Data Developer Intern - Zurich Technology Delivery Center (Barcelona)
+
+What Can You Expect?
+As a Big Data Developer Intern, you will have the opportunity to:
+- Develop data applications using Spark with Scala or Python.
+- Create unit and integration tests to support reliable, high-quality applications.
+- Monitor and support applications running on the data ingestion platform.
+- Maintain clear and up-to-date technical documentation.
+- Work alongside experienced colleagues in an international technology environment.
+- Build practical experience in big data development while contributing ideas to the team.
+
+What Makes You a Great Fit?
+- Active student status with a Spanish university or educational institution is mandatory.
+- Interest in developing a career in technology, data or software engineering.
+- Availability for a part-time internship of at least 6 months.
+- Curious, enthusiastic and eager to learn.
+- Tech-savvy, responsible and comfortable taking initiative.
+- A collaborative team player with a positive, can-do attitude.
+- Ability to communicate in English with international colleagues and managers on a daily basis.
+- Experience or academic knowledge of Scala and SQL.
+- Knowledge of Spark and/or Python is highly valued.
+- Knowledge of Azure or AWS is desirable.
